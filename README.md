@@ -10,6 +10,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=GiovannaLopesG&show_icons=true" />
 </picture>
+
   
   ##
  
